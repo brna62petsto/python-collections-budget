@@ -1,6 +1,6 @@
 import collections
 from typing import Counter
-import Expense
+from . import Expense
 import matplotlib.pyplot as plt
 
 expenses = Expense.Expenses()
